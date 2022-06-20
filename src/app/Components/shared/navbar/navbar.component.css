@@ -1,0 +1,22 @@
+.nav-spacer {
+    flex: 1 1 auto;
+  }
+.nav-icon-label a{
+    text-decoration: none;
+    color: rgb(240, 233, 233);
+    margin-right: 10px;
+}
+.userBtn{
+    padding: 0%;
+    margin: 0%;
+}
+.userImg{
+    width: 2.5rem;
+    height: 2.5rem;
+
+    border-radius: 25%;
+}
+.toolbar{
+    height: 3em;
+
+}
